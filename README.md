@@ -1,10 +1,20 @@
 ## Colab Version of [DenseDiffusion](https://github.com/naver-ai/DenseDiffusion)
+This is the Google Colaboratory Project for [DenseDiffusion](https://github.com/naver-ai/DenseDiffusion) by [naver-ai](https://github.com/naver-ai).
 
-### **Web Demo** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XandrChris/DenseDiffusionColab/blob/main/DenseDiffusionColab.ipynb)
+### **Demo** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XandrChris/DenseDiffusionColab/blob/main/DenseDiffusionColab.ipynb)
 
-> #### Sample
-<p align="center">
-  <img src="./figures/sample.png" width="90%" title="results"></img>
+### Samples
+<p align="center" title="results">
+  <img src="./figures/Sample4.png" height="245px"></img>
+</p>
+<p align="center" title="results">
+  <img src="./figures/Sample1.png" height="245px"></img>
+</p>
+<p align="center" title="results">
+  <img src="./figures/Sample2.png" height="245px"></img>
+</p>
+<p align="center" title="results">
+  <img src="./figures/Sample3.png" height="245px"></img>
 </p>
 
 ### Use
