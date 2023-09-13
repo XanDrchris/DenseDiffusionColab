@@ -5,7 +5,16 @@ This is the Google Colaboratory Project for [DenseDiffusion](https://github.com/
 
 ### Samples
 <p align="center" title="results">
+  <img src="./figures/Sample4.png" height="245px"></img>
+</p>
+<p align="center" title="results">
   <img src="./figures/Sample1.png" height="245px"></img>
+</p>
+<p align="center" title="results">
+  <img src="./figures/Sample2.png" height="245px"></img>
+</p>
+<p align="center" title="results">
+  <img src="./figures/Sample3.png" height="245px"></img>
 </p>
 
 ### Use
